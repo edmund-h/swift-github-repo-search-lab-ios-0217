@@ -32,7 +32,6 @@ xcuserdata/
 timeline.xctimeline
 playground.xcworkspace
 
-Secrets.swift
 
 # Swift Package Manager
 #
@@ -40,6 +39,9 @@ Secrets.swift
 # Packages/
 # Package.pins
 .build/
+
+# Secrets
+Secrets.swift
 
 # CocoaPods
 #
